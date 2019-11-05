@@ -1,0 +1,12 @@
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\bin\Debug\EntityFramework.dll
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\bin\Debug\EntityFramework.xml
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+B:\.Net_WebApi_EntityFramework-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

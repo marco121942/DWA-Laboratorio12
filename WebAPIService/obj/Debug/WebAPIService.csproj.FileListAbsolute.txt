@@ -1,0 +1,148 @@
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\WebAPIService.dll.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\WebAPIService.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\WebAPIService.pdb
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\csc.exe
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\csc.exe.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\csc.rsp
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\csi.exe
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\csi.exe.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\csi.rsp
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.AppContext.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Collections.Immutable.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Console.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.IO.Compression.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.IO.FileSystem.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.IO.Pipes.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Reflection.Metadata.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Security.AccessControl.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Security.Claims.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.ValueTuple.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Xml.XPath.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\vbc.exe
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\vbc.exe.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\vbc.rsp
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\VBCSCompiler.exe
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\roslyn\VBCSCompiler.exe.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\AutoMapper.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\DataAccessLayer.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\EntityFramework.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\EntityFramework.SqlServer.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\Newtonsoft.Json.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\System.Net.Http.Formatting.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\System.Web.Http.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\System.Web.Http.WebHost.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\DataAccessLayer.pdb
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\DataAccessLayer.dll.config
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\EntityFramework.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\EntityFramework.SqlServer.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\Newtonsoft.Json.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\System.Net.Http.Formatting.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\System.Web.Http.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\System.Web.Http.WebHost.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\es\System.Net.Http.Formatting.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\es\System.Web.Http.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\bin\es\System.Web.Http.WebHost.resources.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\obj\Debug\WebAPIService.csprojAssemblyReference.cache
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\obj\Debug\WebAPIService.csproj.CopyComplete
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\obj\Debug\WebAPIService.dll
+E:\ciclo 6\Desarrollo de Aplicaciones Empresariales\ProjectsVisualStudio\Semana12\WebApiCRUD\WebAPIService\obj\Debug\WebAPIService.pdb
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\obj\Debug\WebAPIService.csproj.CoreCompileInputs.cache
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\obj\Debug\WebAPIService.csprojAssemblyReference.cache
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\WebAPIService.dll.config
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\WebAPIService.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\WebAPIService.pdb
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\csc.exe
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\csc.exe.config
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\csc.rsp
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\csi.exe
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\csi.exe.config
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\csi.rsp
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\Microsoft.CodeAnalysis.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\Microsoft.CSharp.Core.targets
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\Microsoft.Managed.Core.targets
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.AppContext.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Collections.Immutable.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Console.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Diagnostics.StackTrace.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.IO.Compression.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.IO.FileSystem.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.IO.Pipes.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Reflection.Metadata.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Security.AccessControl.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Security.Claims.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Security.Principal.Windows.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Text.Encoding.CodePages.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.ValueTuple.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Xml.ReaderWriter.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Xml.XmlDocument.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Xml.XPath.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\System.Xml.XPath.XDocument.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\vbc.exe
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\vbc.exe.config
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\vbc.rsp
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\VBCSCompiler.exe
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\roslyn\VBCSCompiler.exe.config
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\DataAccessLayer.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\EntityFramework.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\EntityFramework.SqlServer.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\Newtonsoft.Json.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\System.Net.Http.Formatting.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\System.Web.Http.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\System.Web.Http.WebHost.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\DataAccessLayer.pdb
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\DataAccessLayer.dll.config
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\EntityFramework.xml
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\EntityFramework.SqlServer.xml
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\Newtonsoft.Json.xml
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\System.Net.Http.Formatting.xml
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\System.Web.Http.xml
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\System.Web.Http.WebHost.xml
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\es\System.Net.Http.Formatting.resources.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\es\System.Web.Http.resources.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\bin\es\System.Web.Http.WebHost.resources.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\obj\Debug\WebAPIService.csproj.CopyComplete
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\obj\Debug\WebAPIService.dll
+B:\.Net_WebApi_EntityFramework-master\WebAPIService\obj\Debug\WebAPIService.pdb
