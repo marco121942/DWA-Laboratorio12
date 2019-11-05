@@ -1,3 +1,3 @@
 # DWA-Laboratorio12
 # Listar
-❮img src="imagenes/listar.png" ❯
+❮img src="imagenes/listaProducto.png" ❯
